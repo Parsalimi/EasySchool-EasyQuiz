@@ -52,12 +52,9 @@ It doesn't look beautiful but shows my idea
 
 ### EasyQuzi
 First I've to apologize because the app's language is Persian, EasyQuiz will be merged with EasySchool, It'll help schools to get their exams online and it's really flexible.
-
-#### Start Exam Panel
-
-#### Exam's History Panel
-
-#### Make New Exam Panel
+- Start Exam Panel
+- Exam's History Panel
+- Make New Exam Panel
 
 ## Versiones Explanation
 ### V1.0 [latest version]
