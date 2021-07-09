@@ -3,8 +3,8 @@ Manage schools will be easier with this idea ...,
 Sadly I've to say I put a little time into it, because of school.
 It doesn't look beautiful but shows my idea
 
-## EasySchool
-### Feature Explanation
+## Feature Explanation
+### EasySchool
 #### Login Panel
 - Forget password
 
@@ -50,7 +50,7 @@ It doesn't look beautiful but shows my idea
 - ⛔❌|Teacher
 - ⛔❌|Student
 
-## EasyQuzi
+### EasyQuzi
 
 ## Versiones Explanation
 ### V1.0
