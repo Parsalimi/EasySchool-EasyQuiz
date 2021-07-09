@@ -20,6 +20,7 @@ It doesn't look beautiful but shows my idea
 - ❌: Not allowed to change
 
 ### Week Schedule Panel
+test
 - 👁️✔️|Owner
 - 👁️✔️|Admin
 - 👁️❌|Teacher
