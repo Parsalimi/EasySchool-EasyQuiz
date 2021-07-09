@@ -53,4 +53,4 @@ It doesn't look beautiful but shows my idea
 ### EasyQuzi
 
 ## Versiones Explanation
-### V1.0
+### V1.0 [latest version]
