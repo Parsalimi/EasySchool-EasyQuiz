@@ -1,5 +1,5 @@
-# EasySchool
-Manage schools will be easier with this idea ...
+# EasySchool & EasyQuiz
+Manage schools will be easier with this idea ...,
 Sadly I've to say I put a little time into it, because of school.
 It doesn't look beautiful but shows my idea
 
@@ -13,14 +13,13 @@ It doesn't look beautiful but shows my idea
 - Teacher
 - Student
 
-### ⚠️Emojis Guide⚠️
+#### ⚠️Emojis Guide⚠️
 - 👁️: Allowed to see
 - ⛔: Not allowed to see
 - ✔️: Allowed to change
 - ❌: Not allowed to change
 
 ### Week Schedule Panel
-#### test
 - 👁️✔️|Owner
 - 👁️✔️|Admin
 - 👁️❌|Teacher
