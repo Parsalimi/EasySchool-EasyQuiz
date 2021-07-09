@@ -1,2 +1,2 @@
 # EasySchool
-Manage schools will be more easier with this idea
+Manage schools will be easier with this idea
