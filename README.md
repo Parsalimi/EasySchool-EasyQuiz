@@ -13,6 +13,12 @@ It doesn't look beautiful but shows my idea
 - Teacher
 - Student
 
+### ⚠️Emojis Guide⚠️
+- 👁️: Allowed to see
+- ⛔: Not allowed to see
+- ✔️: Allowed to change
+- ❌: Not allowed to change
+
 ### Week Schedule Panel
 - 👁️✔️|Owner
 - 👁️✔️|Admin
@@ -33,7 +39,7 @@ It doesn't look beautiful but shows my idea
 
 ### Register Student Panel
 - 👁️✔️|Owner
-- 👁️✔️|Admin
+- ⛔❌|Admin
 - ⛔❌|Teacher
 - ⛔❌|Student
 
